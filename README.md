@@ -1,2 +1,2 @@
 # YoloVision
- Ce travail pratique porte sur la vision par ordinateur et vise à détecter des objets dans une image.
+Ce travail pratique porte sur la vision par ordinateur et vise à détecter des objets dans une image. Grâce à la bibliothèque YOLO et à Numpy, il est capable d'identifier différents types d'objets tels qu'une personne, un cahier, une table, etc. Le deuxième fichier, visage.py, permet spécifiquement de détecter le visage d'une personne. C'est fascinant de constater que ces technologies sont implémentées dans nos téléphones aujourd'hui !
